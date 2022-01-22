@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving my basic programming skills.
 - 🌱 I’m currently learning how to use Git and GitHub.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... follow the white 🐇.
 - 🖖 Learn as though you will live forever.
 
 <!---
